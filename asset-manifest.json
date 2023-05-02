@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diet/static/css/main.fc5c2c69.css",
+    "main.js": "/diet/static/js/main.b865ea31.js",
+    "index.html": "/diet/index.html",
+    "main.fc5c2c69.css.map": "/diet/static/css/main.fc5c2c69.css.map",
+    "main.b865ea31.js.map": "/diet/static/js/main.b865ea31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.b865ea31.js"
+  ]
+}
